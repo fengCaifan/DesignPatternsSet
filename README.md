@@ -1,2 +1,2 @@
-# DesignPatternsSet
-设计模式学习集合
+# DesignPatterns
+整理关于设计模式相关的学习笔记
